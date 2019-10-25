@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-一帆风顺
-=======
-一帆风顺
->>>>>>> feat
+Creating a new branch is quick.
