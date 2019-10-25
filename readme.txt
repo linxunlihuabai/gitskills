@@ -1,2 +1,6 @@
 Creating a new branch is quick.
-myhead∑
+<<<<<<< HEAD
+myhead and
+=======
+myhead and
+>>>>>>> feat
