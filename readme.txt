@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-myhead
+myhead and
